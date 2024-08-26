@@ -19,7 +19,7 @@
       input.forEach((i,ii)=> { i.children[0].value = held[ii]})
       document.querySelector('[name="withtype"]').value = "Alliance"
       document.querySelector('[name="withrecipient"]').value = "Arctic Ocean"
-      document.querySelector('[name="btn_confirm_withdrawal"]').click()
+      document.querySelector('[id="btn_confirm_withdrawal"]').click()
 
     }
     window.addEventListener('load', function() {
