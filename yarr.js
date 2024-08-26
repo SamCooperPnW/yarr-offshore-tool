@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yarr Offshore Tool
 // @namespace    Scratchy and Sam
-// @version      0.3
+// @version      0.31
 // @description  Send money to YARR in a click!
 // @author       Scratchy and Sam
 // @match        https://*.politicsandwar.com/alliance/id=913&display=bank
